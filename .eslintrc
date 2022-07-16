@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "oclif",
+    "oclif-typescript"
+  ],
+  "rules": {
+    "object-curly-spacing": "off",
+    "semi": "off",
+    "comma-dangle": "off",
+    "no-eq-null": "off",
+    "eqeqeq": "off",
+    "indent": "off",
+    "arrow-parens": "off",
+    "no-mixed-operators": "off",
+    "no-await-in-loop": "off",
+    "unicorn/no-for-loop": "off",
+    "unicorn/new-for-builtins": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off"
+  }
+}
