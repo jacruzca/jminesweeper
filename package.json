@@ -21,7 +21,7 @@
     "@oclif/plugin-help": "^5",
     "@oclif/plugin-plugins": "^2.0.1",
     "console-table-printer": "2.11.0",
-    "conf": "10.1.2"
+    "conf": "10.2.0"
   },
   "devDependencies": {
     "@oclif/test": "^2",
